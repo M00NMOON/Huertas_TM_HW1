@@ -65,3 +65,7 @@ skyrim
 
 ## History
 Created on January 29, 2024.
+
+## Credits
+Officially Published by:
+Dixie Marie Laput and Tanya Mae Huertas
