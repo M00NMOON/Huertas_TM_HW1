@@ -69,3 +69,6 @@ Created on January 29, 2024.
 ## Credits
 Officially Published by:
 Dixie Marie Laput and Tanya Mae Huertas
+
+## License
+MIT License Year 2024
