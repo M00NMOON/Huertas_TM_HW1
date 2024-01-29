@@ -29,3 +29,29 @@ Favourite Genre: Sci-fi, Horror
   <img src="images/ufo.jpg" width="750" />
   <img src="images/horror.jpg" width="750" />	
 </p>
+
+# Hello I'm Tanya Mae Huertas
+<img src= "images/How to Win (4).png" width= "300"/>
+
+## I am from the Philippines
+<img src= "images/Mati Davao Dahican beach 2.JPG">
+
+### Interests: BMTH, Paramore, One Piece
+
+<img src= "images/Bring-Me-The-Horizon_BMTH-promo-2024-official-press-scaled.jpg">
+<img src= "images/NME-PARAMORE-2023-2-credit-Zachary-Gray@2160x2700.jpg" >
+
+<img src= "images/One piece.jpg">
+
+### Hobby: Playing Computer Games 
+
+<img src= "images/red_dead_redemption_2_arthur_revolver_3840.0.jpg">
+Red Dead Redemption
+<img src= "images/skyrim-mod-third-person-menu-model.jpg" >
+skyrim
+
+### Favourite Shows/Movies: Reacher, Loki, The Subtle Art of Not Giving a F*ck
+
+<img src= "images/Reacher.jpg">
+<img src= "images/Loki.jpg">
+<img src= "images/Mark Manson.jpg">
